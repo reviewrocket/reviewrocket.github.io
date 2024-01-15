@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "review rocket"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "리뷰로켓은 수많은 제품에 관한 다양하고 신뢰성 있는 리뷰를 한 곳에서 모아 제공합니다."
   location         : "Somewhere"
   email            :
   links:
